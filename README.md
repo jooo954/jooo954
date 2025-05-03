@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @jooo954
+- 👋 Hi, I’m Yousef Ahmed Abdelatef
 - 📫 How to reach me primejooo7@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 This is a DECI L2 Project repos
