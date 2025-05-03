@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jooo954
+- 📫 How to reach me primejooo7@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+This is a DECI L2 Project repos
